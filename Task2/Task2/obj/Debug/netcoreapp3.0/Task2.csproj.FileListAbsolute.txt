@@ -1,0 +1,11 @@
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.exe
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.deps.json
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.runtimeconfig.json
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.runtimeconfig.dev.json
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.dll
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\bin\Debug\netcoreapp3.0\Task2.pdb
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\obj\Debug\netcoreapp3.0\Task2.csprojAssemblyReference.cache
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\obj\Debug\netcoreapp3.0\Task2.AssemblyInfoInputs.cache
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\obj\Debug\netcoreapp3.0\Task2.AssemblyInfo.cs
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\obj\Debug\netcoreapp3.0\Task2.dll
+C:\Users\ATCBX5\Desktop\Task\Task2\Task2\obj\Debug\netcoreapp3.0\Task2.pdb
